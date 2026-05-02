@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+pandas
+pillow
+torch
+transformers
+face_recognition
+dlib
+cmake
