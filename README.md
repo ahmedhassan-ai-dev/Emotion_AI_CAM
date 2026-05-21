@@ -233,9 +233,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🙋 Contact
 
 Questions or collaborations? Reach out via:
-- 📧 Email: [your.email@university.edu]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🐙 GitHub: [@your-username]
+- 📧 Email:v ahmedhassan2062005@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-hassan-mohamed01
+- 🐙 GitHub: https://github.com/ahmedhassan-ai-dev
 
 ---
 
